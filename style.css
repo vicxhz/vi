@@ -1,5 +1,5 @@
 .cabecalho{
-   background-color: #ffc0cb;
+   background-color: peachpuff;
    color: hotpink;
    display: flex;
    padding: 30px ;
@@ -13,7 +13,7 @@
 
 .sessao2{
     background-color: sienna;
-    color: #ffc0cb
+    color:lightcoral 
     padding: 10px;
 }
 
