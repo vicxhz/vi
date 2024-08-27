@@ -1,0 +1,16 @@
+.cabecalho{
+   background-color: crimson;
+   color: lightcoral;
+   display: flex;
+   padding: 24px 0;
+}
+
+.sessao1{
+    background-color: deeppink;
+    color: lightpink;
+}
+
+.sessao2{
+    background-color: deeppink;
+    color: lightpink;
+}
