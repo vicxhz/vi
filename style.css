@@ -18,23 +18,28 @@
 }
 
 .morang-cabec{
-    width: 20%;
+    width: 10px;
+    height: 10px;
 }
 
 .mcc{
-    width: 10%;
+    width: 8px;
+    height: 8px;
 }
 
 .mcl{
-    width: 15%;
+    width: 8px;
+    height: 8px;
 }
 
 .ucc{
-    width: 20%;
+    width: 8px;
+    height: 8px;
 }
 
 .ucl{
-    width: 18%;
+    width: 8px;
+    height: 8px;
 }
 
 .morang-rdp{
@@ -49,4 +54,5 @@
 
 .prec{
     color: lightcoral;
+    padding: 10px;
 }
