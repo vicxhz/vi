@@ -13,8 +13,8 @@
 
 .sessao2{
     background-color: sienna;
-    color:lightcoral 
-    padding: 10px;
+    color: lightcoral;
+    padding: 15px;
 }
 
 .morang-cabec{
@@ -26,24 +26,25 @@
 }
 
 .mcl{
-    width: 10%;
+    width: 15%;
 }
 
 .ucc{
-    width: 10%;
+    width: 20%;
 }
 
 .ucl{
-    width: 10%;
+    width: 18%;
 }
 
 .morang-rdp{
-    width: 8%;
+    width: 15%;
 }
 
 .rodape{
     background-color: sienna;
     color: lightsalmon;
+    padding: 8px;
 }
 
 .prec{
