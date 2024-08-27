@@ -1,19 +1,19 @@
 .cabecalho{
-   background-color: crimson;
-   color: lightcoral;
+   background-color: #ffc0cb;
+   color: hotpink;
    display: flex;
    padding: 40px 0;
 }
 
 .sessao1{
-    background-color: deeppink;
-    color: lightpink;
+    background-color: sienna;
+    color: lightcoral;
     padding: 10px;;
 }
 
 .sessao2{
-    background-color: deeppink;
-    color: lightpink;
+    background-color: sienna;
+    color: #ffc0cb
     padding: 10px;
 }
 
@@ -39,4 +39,9 @@
 
 .morang-rdp{
     width: 8%;
+}
+
+.rodape{
+    background-color: sienna;
+    color: lightsalmon;
 }
