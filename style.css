@@ -2,13 +2,13 @@
    background-color: #ffc0cb;
    color: hotpink;
    display: flex;
-   padding: 40px 0;
+   padding: 30px ;
 }
 
 .sessao1{
     background-color: sienna;
     color: lightcoral;
-    padding: 10px;;
+    padding: 10px;
 }
 
 .sessao2{
