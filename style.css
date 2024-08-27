@@ -2,17 +2,17 @@
    background-color: crimson;
    color: lightcoral;
    display: flex;
-   padding: 24px 0;
+   padding: 40px 0;
 }
 
 .sessao1{
     background-color: deeppink;
     color: lightpink;
-    padding: 50px;;
+    padding: 24px;;
 }
 
 .sessao2{
     background-color: deeppink;
     color: lightpink;
-    padding: 50px;
+    padding: 24px;
 }
