@@ -59,10 +59,10 @@
 }
 
 .wpp{
-    background-color: darksalmon; 
+    background-color: var(--botao-lightcoral);
     border-radius: 5px;
-    padding: 1em;
-    color: deeppink;
+    color: var(--botao-hotpink);
+    display: block;
 }
 
 .bmc{
