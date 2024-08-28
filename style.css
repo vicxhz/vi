@@ -18,41 +18,42 @@
 }
 
 .morang-cabec{
-    width: 10px;
-    height: 10px;
+    width: 100px;
+    height: 100px;
 }
 
 .mcc{
-    width: 8px;
-    height: 8px;
+    width: 80px;
+    height: 80px;
 }
 
 .mcl{
-    width: 8px;
-    height: 8px;
+    width: 80px;
+    height: 80px;
 }
 
 .ucc{
-    width: 8px;
-    height: 8px;
+    width: 80px;
+    height: 80px;
 }
 
 .ucl{
-    width: 8px;
-    height: 8px;
+    width: 80px;
+    height: 80px;
 }
 
 .morang-rdp{
-    width: 15%;
+    width: 70px;
+    height: 70px;
 }
 
 .rodape{
     background-color: sienna;
     color: lightsalmon;
-    padding: 8px;
+    padding: 30px;
 }
 
 .prec{
     color: lightcoral;
-    padding: 10px;
+    padding: 40px;
 }
