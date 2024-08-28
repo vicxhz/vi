@@ -57,3 +57,10 @@
     color: lightcoral;
     padding: 40px;
 }
+
+.wpp{
+    background-color: darksalmon; 
+    border-radius: 5px;
+    padding: 1em;
+    color: deeppink;
+}
