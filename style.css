@@ -67,20 +67,29 @@
 
 .bmc{
     color:lightcoral ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
 }
 
 .bmln{
     color: lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
 }
 
 .buc{
     color: lightcoral;
-}
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
 
 .buln{
     color: lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
 }
 
 .inf{
     color: lightcoral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
 }
