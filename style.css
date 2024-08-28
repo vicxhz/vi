@@ -1,6 +1,5 @@
 .cabecalho{
    background-color: peachpuff;
-   color: hotpink;
    display: flex;
    padding: 30px ;
 }
@@ -92,4 +91,10 @@
     color: lightcoral;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: small;
+}
+
+.docesdamor{
+    color: hotpink;
+    font: italic;
+    font-family: brush-script;
 }
