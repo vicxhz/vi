@@ -1,5 +1,6 @@
 .cabecalho{
    background-color: peachpuff;
+   color: hotpink;
    display: flex;
    padding: 30px ;
 }
