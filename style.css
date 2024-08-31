@@ -99,3 +99,31 @@
     font: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.recmcc{
+    background-color: var(--botao-lightcoral);
+    border-radius: 5px;
+    color: var(--botao-hotpink);
+    display: block;
+}
+
+.recmcl{
+    background-color: var(--botao-lightcoral);
+    border-radius: 5px;
+    color: var(--botao-hotpink);
+    display: block;
+}
+
+.recucc{
+    background-color: var(--botao-lightcoral);
+    border-radius: 5px;
+    color: var(--botao-hotpink);
+    display: block;
+}
+
+.recucl{
+    background-color: var(--botao-lightcoral);
+    border-radius: 5px;
+    color: var(--botao-hotpink);
+    display: block;
+}
